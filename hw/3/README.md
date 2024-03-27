@@ -3,4 +3,5 @@
 3. Deductive & Plausible
 4. When it rains the weather gets cooler.
 5. If the man came out the broken window with a mask and a bag, then he must have been robbing the store.
-6. 
+6. ![6-11](hw3.png)
+   
