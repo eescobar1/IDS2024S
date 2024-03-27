@@ -6,5 +6,5 @@
 6. George Boole
 9. that both propositions are equally plausible
 7-12. ![Photo 7-12](quiz3.png)
-
-
+13-17. ![13-17](1417.png)
+18. While this quiz was fair, I felt it to be extremely difficult as many of the topics I did not feel too confident in. but in terms of fairness, its all fair game
