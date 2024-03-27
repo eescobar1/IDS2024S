@@ -5,5 +5,6 @@
 5. No it is not because like in the previous sentence about clouds, just because it is cloduy does not exactly mean it will rain at 10 am.
 6. George Boole
 9. that both propositions are equally plausible
-7-12. 
+7-12. ![Photo 7-12](quiz3.png)
+
 
